@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=902DFF&width=435&lines=Hi!+Welcome+to+my+GitHub+profile%2C+I'm+LITCH!)](https://git.io/typing-svg)
 
 <!--
 **Litch-Kurayami/Litch-Kurayami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
