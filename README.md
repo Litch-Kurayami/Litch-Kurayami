@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=747171&width=435&lines=Hi%2C+everyone!+I'm+Litch+Kurayami.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img src="assets/images/gengar.gif" alt="Gengar GIF" style="width: 200px; height: auto;">
+<img src="assets/images/gengar.gif" alt="Gengar GIF" alt="Pixel Art" align="right" width="200"">
 
 ### Technologies and tools:
 
